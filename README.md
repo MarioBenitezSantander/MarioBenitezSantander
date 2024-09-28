@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Mario Benítez</h1>
-![BannerRecortado](https://github.com/user-attachments/assets/e6f6a766-ee0e-4066-9de1-c297642450c1)
+[![Banner-Recortado.png](https://i.postimg.cc/j5CyMg8n/Banner-Recortado.png)](https://postimg.cc/xJDkCRV9)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mario-benítez-519821304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario benítez" height="30" width="40" /></a>
