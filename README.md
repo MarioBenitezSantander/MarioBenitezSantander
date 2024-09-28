@@ -1,8 +1,9 @@
 <h1 align="center">Hola 👋, soy Mario Benítez</h1>
+<img src="https://i.postimg.cc/j5CyMg8n/Banner-Recortado.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mario-benítez-519821304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario benítez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mario benítez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario benítez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
